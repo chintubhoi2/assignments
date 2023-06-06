@@ -1,0 +1,27 @@
+a. 
+z = (160 - 170) / 10 = -1
+z = (180 - 170) / 10 = 1
+
+from z-table, the probability corresponding to a z-score of -1 is approximately 0.1587, z-score of 1 is  approximately 0.8413.
+
+To find the percentage between 160 cm and 180 cm, we subtract the probability of the lower value from the probability of the upper value:
+
+Percentage = (0.8413 - 0.1587) * 100 = 68.26%
+
+b. 
+
+z = (175 - 170) / (10 / sqrt(100)) = 5 / 1 = 5
+
+Probability (z > 5) = 1 - Probability (z < 5)
+
+from z table the probability that the average height of a random sample of 100 individuals is greater than 175 cm is approximately 1 or 100%.
+
+c. To calculate the z-score corresponding to a height of 185 cm, we can use the formula:
+
+z = (x - μ) / σ
+
+where x is the value (185 cm), μ is the mean (170 cm), and σ is the standard deviation (10 cm).
+
+z = (185 - 170) / 10 = 15 / 10 = 1.5
+
+Therefore, the z-score corresponding to a height of 185 cm is 1.5.
